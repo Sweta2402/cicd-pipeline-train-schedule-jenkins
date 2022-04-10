@@ -1,0 +1,1 @@
+uptime; hostname -s
